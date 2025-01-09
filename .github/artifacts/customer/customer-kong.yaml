@@ -44,7 +44,7 @@ plugins:
     add:
       body: []
       headers:
-      - Kong Konnect
+      - KX-Powered-By:Mike!!
   enabled: true
   name: request-transformer-advanced
 services:
